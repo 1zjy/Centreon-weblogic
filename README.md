@@ -5,6 +5,7 @@
 采用shell方式编写运行主脚本check_weblogic.sh，其他jvm、thread、state、uptime、jdbc为选择的分支脚本（python）;
 
 脚本用法说明：
+
 1、服务状态【state标准格式】:
 ./check_weblogic.sh state '[管理控制台用户]|[控制台密码]|[管理节点IP]|[管理节点端口]|[server1,server2,…]|业务名称'
 
